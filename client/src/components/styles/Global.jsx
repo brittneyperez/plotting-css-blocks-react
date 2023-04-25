@@ -10,7 +10,7 @@ const GlobalStyles = createGlobalStyle`
         font-family: 'Poppins', sans-serif;
     }
     body {
-        background: whitesmoke;
+        background: #fff;
         color: #000;
         font-size: 1.15rem;
     }
